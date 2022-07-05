@@ -12,7 +12,7 @@ This is an example of how to make a application which shortens the url entered b
                MongoDB
                Express
                Ejs
-               
+
    
 
 ## To start setting up the project
@@ -27,4 +27,10 @@ Step 2: cd into the cloned repo and run:
 
 ```bash
 npm install
+```
+
+Step 3: Go to the terminal of your codebase:
+
+```bash
+npm start
 ```
